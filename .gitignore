@@ -1,0 +1,12 @@
+# ignore .DS_Store in all directories
+**/.DS_Store
+# ignore all .zip files in the all directory
+**/*.zip
+# ignore executable files in all directories
+**/exe
+# ignore exe.dSYM file in all directories
+**/*.dSYM
+# ignore Ubuntu Guide in lexer/src
+/lexer/src/CSE340_Ubuntu_Guide.docx
+# ignore environment files in all directories
+**/.env
